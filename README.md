@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen</h1>
-<h3 align="center">Full Stack & AI Engineer @ UrBox · AI Agents · RAG · MCP · Computer Vision · MLOps | Ho Chi Minh City 🇻🇳</h3>
+<h3 align="center">AI Engineer @ AI Agents · RAG · MCP · Computer Vision · MLOps | Ho Chi Minh City 🇻🇳</h3>
 
 <p align="center">
   <a href="mailto:phancaonguyen58@gmail.com">
